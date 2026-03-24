@@ -475,6 +475,8 @@ python manage.py runserver
 ```
 http://127.0.0.1:8000/
 ```
+SCREENSHOT
+``<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e191591a-5d3b-4e3b-ab45-743f9485b1e9" />
 
 ---
 
